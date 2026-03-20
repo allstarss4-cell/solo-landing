@@ -21,7 +21,7 @@ export default function Navigation() {
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         <a href="/" className="text-xl font-bold tracking-tight text-[#2C2C2C]">
-          SOLO
+        SOLO <span className="hidden lg:inline text-sm font-normal text-[#8A8A8A] ml-2">— Cinematic Creative Director</span>
         </a>
 
         <div className="hidden md:flex items-center gap-8 text-sm text-[#5A5A5A]">
