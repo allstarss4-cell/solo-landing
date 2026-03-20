@@ -1,32 +1,37 @@
+# SOLO — Cinematic Creative Director (R&D Phase)
 
-# SOLO Engine — Cinema-Grade Prompts for AI Creators
-
-🚀 **Live Demo:** https://solo-landing-web.vercel.app
+🚀 **Live Demo:** https://solo-landing-web.vercel.app/
 
 ---
 
-## 📽️ About the Project
+## 🔬 Research & Development Overview
 
-**SOLO Engine** is a high-tech generation system designed to bridge the gap between human creative vision and AI execution. It specializes in crafting complex, director-level cinematic prompts for leading AI platforms including **Runway, MidJourney, Pika, Luma, Sora**, and any other image or video generator.
+**SOLO** is an advanced R&D project by **Scity Systems OÜ**, focused on developing an AI-driven **Cinematic Creative Director**. The project explores the intersection of high-level cinematography and generative AI, aiming to automate professional-grade creative direction.
 
-Developed under **Scity Systems OÜ**, SOLO automates the technical breakdown of a scene—handling lighting, camera angles, color grading, and composition—allowing creators to focus on the story.
+Unlike standard prompt generators, SOLO acts as a virtual director, performing complex scene breakdowns including camera movement, lighting physics, and narrative composition.
+
+## 📽️ Project Scope
+
+* **Role:** Cinematic Creative Director for AI-based production.
+* **Core Research:** Development of proprietary algorithms for "Director-level" prompt engineering.
+* **Target Platforms:** Native optimization for **Runway, MidJourney, Pika, Luma, Sora**, and universal compatibility with any photo/video AI generator.
+* **Ecosystem:** Currently integrated as a specialized GPT and Telegram Bot interface for real-time creative assistance.
 
 ## ✨ Key Features
 
-* **Universal Compatibility:** Engineered for 9+ major AI platforms with native optimization and universal support for any photo/video generator.
-* **Cinema-Grade Output:** Transforms simple ideas into professional cinematic breakdowns in seconds.
-* **Workflow Automation:** Designed for professional AI creators and studios to speed up the pre-production process.
-* **The Symbiosis of AI & Art:** Fine-tuned to maintain high artistic standards across various visual styles.
+* **Universal AI Symbiosis:** Engineered to work across all major platforms without limitations.
+* **Automated Scene Breakdown:** Translates abstract ideas into technical cinematography specs (camera, lighting, color, score).
+* **Workflow Integration:** Reducing pre-production time for professional creators and studios.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Implementation
 
-* **Frontend:** Next.js / React (deployed on Vercel)
-* **Design System:** Custom "Charcoal & Brass" aesthetic
-* **Core Logic:** SOLO Engine AI (Proprietary prompt engineering logic)
+* **Architecture:** Next.js / React (Frontend for Web Interface).
+* **Deployment:** Vercel.
+* **R&D Focus:** LLM fine-tuning for cinematic accuracy and multi-platform prompt translation.
 
-## 🏢 Corporate Background
+## 🏢 Institutional Background
 
-SOLO is a flagship product of **Scity Systems**, an Estonian-based tech entity focused on AI-driven automation and innovative digital solutions.
+This research is conducted under **Scity Systems OÜ** (Estonia), led by CEO Aleksei Savytskyi. The project is part of a broader initiative to build autonomous AI ecosystems for the creative industry.
 
 ---
-© 2026 Scity Systems OÜ. All rights reserved.
+© 2026 Scity Systems OÜ. Confidential R&D Documentation.
