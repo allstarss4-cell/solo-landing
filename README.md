@@ -34,4 +34,4 @@ Unlike standard prompt generators, SOLO acts as a virtual director, performing c
 This research is conducted under **Scity Systems OÜ** (Estonia), led by CEO Aleksei Savytskyi. The project is part of a broader initiative to build autonomous AI ecosystems for the creative industry.
 
 ---
-© 2026 Scity Systems OÜ. Confidential R&D Documentation.
+© 2026 Scity Systems OÜ. All rights reserved. | Proprietary R&D Documentation.
