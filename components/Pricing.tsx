@@ -33,7 +33,7 @@ const tiers = [
   },
   {
     name: "PRO",
-    price: "$19",
+    price: "$29",
     period: "/mo",
     description: "Full cinematic output for creators",
     features: [
@@ -50,7 +50,7 @@ const tiers = [
   },
   {
     name: "LUX",
-    price: "$29",
+    price: "$59",
     period: "/mo",
     description: "Premium brand aesthetics",
     features: [
@@ -67,7 +67,7 @@ const tiers = [
   },
   {
     name: "AGENCY",
-    price: "$59",
+    price: "$149",
     period: "/mo",
     description: "Production-level for studios",
     features: [
