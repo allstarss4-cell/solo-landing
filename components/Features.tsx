@@ -56,7 +56,7 @@ const features = [
     icon: Globe,
     title: "Multi-Language",
     description:
-      "Input in English, Ukrainian, or Russian. Final UCPL prompt always in professional English.",
+      "Input in any language. SOLO understands your intent and delivers section headers and final UCPL prompt in professional English.",
   },
 ];
 

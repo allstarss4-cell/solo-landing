@@ -41,11 +41,11 @@ export default function Hero() {
 
         {/* Subheadline */}
         <p className="text-lg md:text-xl text-[#5A5A5A] mb-12 max-w-2xl mx-auto leading-relaxed animate-fade-in-up animation-delay-400">
-          SOLO generates professional cinematic breakdowns for{" "}
+        One director for every AI platform.{" "}
           <span className="text-[#2C2C2C] font-medium">
-            Runway, MidJourney, Pika, Luma, Sora
+            Runway, MidJourney, Sora
           </span>{" "}
-          and 4 more platforms. From idea to director-level scene in seconds.
+          — and whatever launches tomorrow. From idea to director-level scene in seconds.
         </p>
 
         {/* Email Form */}

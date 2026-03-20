@@ -15,7 +15,7 @@ export default function Platforms() {
     <section className="py-16 bg-white border-y border-gray-100">
       <div className="max-w-7xl mx-auto px-6">
         <p className="text-center text-xs uppercase tracking-[0.2em] text-[#8A8A8A] mb-8">
-          Optimized for 9 leading AI platforms
+        Compatible with any AI generation model. Optimized for 9 leading platforms.
         </p>
         <div className="flex flex-wrap justify-center gap-x-8 gap-y-4">
           {platforms.map((p) => (

@@ -4,7 +4,7 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
+export const metadata: Metadata = {metadataBase: new URL("https://solo-landing-web.vercel.app"),
   title: "SOLO — AI Cinematic Creative Director",
   description:
     "Generate cinema-grade prompts for Runway, MidJourney, Pika, Luma, Sora, and more. Professional cinematic direction powered by UCPL — Unified Cinematic Prompt Language.",
