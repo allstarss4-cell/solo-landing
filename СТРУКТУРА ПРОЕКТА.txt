@@ -1,0 +1,21 @@
+solo-landing/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── globals.css
+│   └── favicon.ico
+├── components/
+│   ├── Navigation.tsx
+│   ├── Hero.tsx
+│   ├── Platforms.tsx
+│   ├── Features.tsx
+│   ├── HowItWorks.tsx
+│   ├── Pricing.tsx
+│   ├── CTA.tsx
+│   └── Footer.tsx
+├── public/
+│   ├── og-image.png        ← OG-изображение 1200x630
+│   └── demo-screenshot.png ← Скриншот продукта
+├── package.json
+├── tailwind.config.ts
+└── next.config.js
