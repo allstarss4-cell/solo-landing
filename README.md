@@ -9,7 +9,7 @@
 
 **SOLO Engine** is a high-tech generation system designed to bridge the gap between human creative vision and AI execution. It specializes in crafting complex, director-level cinematic prompts for leading AI platforms including **Runway, MidJourney, Pika, Luma, Sora**, and any other image or video generator.
 
-Developed under **Scity Systems Holding OÜ**, SOLO automates the technical breakdown of a scene—handling lighting, camera angles, color grading, and composition—allowing creators to focus on the story.
+Developed under **Scity Systems OÜ**, SOLO automates the technical breakdown of a scene—handling lighting, camera angles, color grading, and composition—allowing creators to focus on the story.
 
 ## ✨ Key Features
 
@@ -26,7 +26,7 @@ Developed under **Scity Systems Holding OÜ**, SOLO automates the technical brea
 
 ## 🏢 Corporate Background
 
-SOLO is a flagship product of **Scity Systems Holding**, an Estonian-based tech entity focused on AI-driven automation and innovative digital solutions.
+SOLO is a flagship product of **Scity Systems**, an Estonian-based tech entity focused on AI-driven automation and innovative digital solutions.
 
 ---
-© 2026 Scity Systems Holding OÜ. All rights reserved.
+© 2026 Scity Systems OÜ. All rights reserved.
