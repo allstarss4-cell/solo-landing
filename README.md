@@ -2,6 +2,10 @@
 
 🚀 **Live Demo:** https://solo-landing-web.vercel.app/
 
+## 🎬 Demo
+
+[![Watch the demo] Promo_SOLO (https://youtu.be/09Cfs7MxPl8), Demo_GPT (https://youtu.be/-neQSLmUEwI), Demo_TG (https://youtu.be/TT0oEaxLc88)
+
 ---
 
 ## 🔬 Research & Development Overview
